@@ -1,21 +1,36 @@
-# ⚡ Priyanshu
+<h1 align="center">⚡ Priyanshu</h1>
+<h3 align="center">Building real-world apps that don’t suck</h3>
 
-<h3>Full-Stack Developer building real-world web apps</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-Production%20Apps-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Building-orange?style=for-the-badge" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%2B+Node+%2B+Next;Building+GenZ+Focused+Apps;Shipping+%3E+Learning" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-* 🚀 I build apps that people can actually use
-* ⚡ Focused on **performance, clean UI, and real-world logic**
-* 🧩 Currently working on: **Chaos Call (GenZ voice app)**
-* 📈 Goal: Get hired as a **Full-Stack Developer**
+```diff
++ I build apps people can actually use
++ Focused on real-world projects, not tutorials
++ Currently building: Chaos Call (GenZ voice app)
+! Goal: Get hired as a Full-Stack Developer
+```
+
+---
+
+## 🧠 What I'm Doing Right Now
+
+* ⚡ Building a **Freelance Client Dashboard SaaS**
+* 🔥 Improving backend (APIs, auth, scalability)
+* 🎯 Turning ideas into real products
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts,js,git,github" />
+</p>
 
 ---
 
@@ -23,44 +38,47 @@
 
 ### 🟣 Coaching Marketplace
 
-> Full-stack platform connecting students with coaching institutes
-
-* 🔐 Auth system
-* 📚 Course listings
-* ⚙️ Backend APIs
+> Full-stack backend for connecting students & coaching institutes
 
 👉 https://github.com/Priyanshu43A/coaching-marketplace-backend
 
 ---
 
+### 🔵 (Your Best Frontend Project)
 
+> Clean UI + responsive design
 
----
-
-## 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,git,github" />
-</p>
+👉 (add link)
 
 ---
 
-## 📊 GitHub Stats
+### 🟢 (Your SaaS Project)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu43A&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu43A&theme=tokyonight" />
+> Freelance dashboard with auth + CRUD + analytics
+
+👉 (add link after building)
+
+---
+
+## 🧩 Dev Energy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu43A&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 🌐 Connect
 
-* 🌍 Portfolio: https://iampriyanshu.xyz
-* 📸 Instagram: https://instagram.com/irritated.priyanshu
+<p align="center">
+  <a href="https://iampriyanshu.xyz">🌍 Portfolio</a> •
+  <a href="https://instagram.com/irritated.priyanshu">📸 Instagram</a>
+</p>
 
 ---
 
-## ⚡ Current Mindset
+## ⚡ Mindset
 
-> "Not just coding. Building things that actually matter."
+<p align="center">
+  <b>Build. Ship. Repeat.</b>
+</p>
