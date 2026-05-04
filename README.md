@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Priyanshu 👋
 
-<!--
-**Priyanshu43A/Priyanshu43A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building GenZ-focused apps & real-world products  
+💻 Full-stack developer (React, Next.js, Node.js)  
+⚡ Currently working on: Chaos Call  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm doing
+- Building apps that people actually use
+- Exploring AI + product-based ideas
+- Improving system design & backend skills  
+
+---
+
+## 🚀 Projects
+
+### 🔹 Chaos Call
+Anonymous voice message app for GenZ  
+👉 (add link when ready)
+
+### 🔹 Coaching Marketplace
+Backend system for connecting students & teachers  
+👉 (add repo link)
+
+---
+
+## 🛠 Tech Stack
+- Frontend: React, Next.js, Expo  
+- Backend: Node.js, Express  
+- Database: MongoDB  
+- Tools: Git, Postman  
+
+---
+
+## 📫 Connect
+🌐 https://iampriyanshu.xyz  
+📸 https://instagram.com/irritated.priyanshu
