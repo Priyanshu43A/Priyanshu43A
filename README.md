@@ -86,12 +86,8 @@
   <a href="https://www.linkedin.com/in/priyanshu-web-dev-b73b10366/">💼 LinkedIn</a> •
   <a href="https://x.com/Priyanshuof2007">🐦 X</a> •
   <a href="https://instagram.com/irritated.priyanshu">📸 Instagram</a>
+  <a href="https://discord.com/channels/@irritated.priyanshu">👻 Discord</a>
 </p>
-
-<p align="center">
-  💬 Discord: <b>1269163469790380042</b>
-</p>
-
 ---
 
 ## ⚡ Mindset
