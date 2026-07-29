@@ -1,101 +1,129 @@
 <h1 align="center">⚡ Priyanshu</h1>
-<h3 align="center">Full-Stack Developer • Building real products, not tutorials</h3>
+
+<h3 align="center">
+Product Engineer • Building products from idea to production
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;MERN+%2B+Next.js;Creative+Frontend+%2B+Strong+Backend;Building+GenZ+Focused+Apps;Shipping+%3E+Talking" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+products+people+actually+use.;Designing+%E2%86%92+Building+%E2%86%92+Shipping.;Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript.;Always+learning+by+building." />
+</p>
+
+<p align="center">
+  <a href="https://priyanshu.novastudio.in">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:jashram826@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/priyanshuatnovastudio/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://x.com/Priyanshubtw">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-```diff
-+ I build real-world apps that solve actual problems
-+ Strong focus on UI + backend logic (not just one side)
-+ Currently building: Chaos Call + Freelance SaaS Dashboard
-! Goal: Get hired as a Full-Stack Developer
-```
+I'm a **Product Engineer** passionate about creating polished digital experiences with scalable backend systems.
 
----
+Instead of cloning tutorials, I enjoy building products that solve real problems and continuously improving them through iteration.
 
-## 🧠 Current Focus
-
-* ⚡ Building a **Freelance Client Dashboard SaaS**
-* 🔥 Improving backend architecture (auth, APIs, scalability)
-* 🎯 Creating projects that actually stand out
+- 🚀 Building production-ready web applications
+- 🎨 Strong interest in UI/UX & frontend engineering
+- ⚙️ Enjoy backend architecture, APIs & authentication
+- 💡 Learning through real-world projects
+- 🌱 Currently exploring scalable system design
 
 ---
 
-## 🛠 Tech Stack
+# 🚧 Currently Building
 
-### 💻 Core
+### 🌐 NovaStudio
+
+A premium digital agency focused on creating high-end websites for startups and businesses.
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
 </p>
 
-### 🎨 Frontend & Creative
+## Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" />
 </p>
 
-* ⚡ GSAP (animations)
-* 🌌 Three.js (3D experiences)
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,postman" />
+</p>
+
+### Also Comfortable With
+
+- GSAP
+- Framer Motion
+- Three.js
+- REST APIs
+- JWT Authentication
+- Cloudinary
+- Responsive Design
 
 ---
 
-## 🔥 Featured Projects
+# ⭐ Featured Projects
 
-### 🟣 Coaching Marketplace
-
-> Backend system connecting students with coaching institutes
-
-👉 https://github.com/Priyanshu43A/coaching-marketplace-backend
-
----
-
-### 🔵 (Your Best Frontend Project)
-
-> Clean UI + responsive design
-
-👉 (add link)
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🎙 **Chaos Call** | Anonymous voice platform for Gen Z | Next.js • Node.js |
+| 💼 **Freelance Dashboard** | Client, invoice & project management SaaS | MERN |
+| 🌐 **NovaStudio** | Premium agency website | Next.js |
+| 📚 **Coaching Marketplace Backend** | Backend for connecting students with coaching institutes | Node.js • Express • MongoDB |
 
 ---
 
-### 🟢 Freelance SaaS Dashboard (In Progress)
-
-> Full-stack app with auth, dashboard, and real-world workflows
-
-👉 (add when ready)
-
----
-
-## 🧩 Dev Presence
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu43A&theme=matrix&no-frame=true&row=1&column=6" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu43A&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://iampriyanshu.xyz">🌍 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/priyanshu-web-dev-b73b10366/">💼 LinkedIn</a> •
-  <a href="https://x.com/Priyanshuof2007">🐦 X</a> •
-  <a href="https://instagram.com/irritated.priyanshu">📸 Instagram</a>
-  <a href="https://discord.com/channels/@irritated.priyanshu">👻 Discord</a>
+
+<a href="https://priyanshu.novastudio.in">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/priyanshuatnovastudio">LinkedIn</a> •
+<a href="https://x.com/Priyanshubtw">X</a> •
+<a href="https://instagram.com/novastudio_works">Instagram</a> •
+<a href="mailto:jashram826@gmail.com">Email</a>
+
 </p>
+
 ---
 
-## ⚡ Mindset
+# 💭 Philosophy
+
+> **Great software isn't built by writing more code.**
+>
+> **It's built by solving the right problem with thoughtful design and solid engineering.**
+
+---
 
 <p align="center">
-  <b>
-  I don’t just learn tech.<br/>
-  I build, break, improve, and ship.<br/><br/>
-  Ideas → Execution → Real Products 🚀
-  </b>
+
+**Design. Build. Ship. Repeat. 🚀**
+
 </p>
