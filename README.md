@@ -90,16 +90,6 @@ A premium digital agency focused on creating high-end websites for startups and 
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu43A&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🌍 Connect With Me
 
 <p align="center">
